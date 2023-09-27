@@ -1,0 +1,5 @@
+data/andalucia_2021.txt
+data/no_existe2
+data/madrid_2021.bin
+data/valencia_2021.bin
+data/extremadura_2021.txt
